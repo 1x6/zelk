@@ -1,6 +1,6 @@
 /* Zelk v1.2 */
 /* imports */
-@import url('https://rsms.me/inter/inter.css');
+@import url('https://github.com/1x6/zelk/raw/main/inter.css');
 /* background */
 :root {
   --channeltextarea-background: var(--background-tertiary);
